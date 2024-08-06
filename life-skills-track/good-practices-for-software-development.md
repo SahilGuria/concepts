@@ -7,7 +7,7 @@
 
 ### Question 2: Which area do you think you need to improve on? What are your ideas to make progress in that area?
 
-** Answer:**
+**Answer:**
 - **Area for Improvement:** Over-communication, especially in scenarios where implementation is taking longer than expected or when facing technical issues. I sometimes wait too long to update the team, which can delay problem-solving and affect project timelines.
 
 **Ideas for Progress:**
